@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(248, 227, 105);
+    text-align: center;
+}
+
+#container {
+    background-color: white;
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+input {
+    padding: 3px;
+    border: 2px solid rgb(92, 92, 216);
+}
+
+select {
+    width: 150px;
+    margin: 10px 0;
+}
